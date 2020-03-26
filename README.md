@@ -1,4 +1,4 @@
-# pubsubclient_modified
+# Arduino MQTT Client /pubsubclient_modified
  
 This is the modified PubsubClient library to support QoS 1 and Qos 2 
 You can find the unmodified version of PubsubClient library.https://github.com/knolleary/pubsubclient
