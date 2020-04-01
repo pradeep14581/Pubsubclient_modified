@@ -30,8 +30,8 @@ const char* ssid = "lum_jio_2520";
 const char* password = "pass@2520";
 
 #define MQTTid              "mydevice"                   //id of this mqtt client
-#define MQTTip              "smartswitch.southindia.cloudapp.azure.com"  //ip address or hostname of the mqtt broker
-#define MQTTport            1773                         //port of the mqtt broker
+#define MQTTip              "server"  //ip address or hostname of the mqtt broker
+#define MQTTport            1883                         //port of the mqtt broker
 #define MQTTuser            "user"                       //username of this mqtt client
 #define MQTTpsw             "password"                   //password of this mqtt client
 #define MQTTpubQos          2                            //qos of publish (see README)
